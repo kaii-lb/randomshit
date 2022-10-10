@@ -1,3 +1,5 @@
+// Place in ~/.config/presets/user/ and use Gradience [https://github.com/GradienceTeam/Gradience] to apply the theme
+
 {
     "name": "alpha-dark-alt",
     "variables": {
