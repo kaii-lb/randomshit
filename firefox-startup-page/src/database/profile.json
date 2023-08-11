@@ -1,0 +1,21 @@
+{
+    "username": "kaii",
+    
+    "country": "Lebanon",
+    "city": "Salima",
+
+    "categories": {
+        "Fun": {
+            "youtube": "https://youtube.com/",
+            "justchill": "https://justchill.tv"
+        },
+        "news": {
+            "xataka": "https://xataka.com",
+            "theverge": "https://theverge.com"
+        },
+        "social": {
+            "github": "https://github.com",
+            "reddit": "https://reddit.com"
+        }
+    }
+}
